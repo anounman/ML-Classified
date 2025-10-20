@@ -6,9 +6,15 @@ This repository is a personal learning workspace for machine learning concepts a
 
 This roadmap tracks the topics I'll study and the code/notebooks I create while learning.
 
+### Regression
+
 - Univariate Linear Regression — `Univariate_Linear_Regression_From_Scratch.ipynb`
 - Linear Regression with Multiple Variables — `Linear_Regression_with_Multiple_Variables.ipynb`
-- Polynomial Regression (current) — `polynomial-regression.ipynb`
+- Polynomial Regression — `polynomial-regression.ipynb`
+
+### Classification
+
+- Logistic Regression (current) — `Unsupervise Learning/Classification/logistic_regression.ipynb`
 
 Goals:
 
